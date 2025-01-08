@@ -31,8 +31,8 @@
 ---
 
 ### 📈 GitHub Stats  
-![Mukunddev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MukunddevArya&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MukunddevArya&layout=compact&theme=radical)  
+![Mukunddev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukundDev2004&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukundDev2004&layout=compact&theme=radical)  
 
 ---
 
